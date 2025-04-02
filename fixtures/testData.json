@@ -1,0 +1,13 @@
+{
+  "user": {
+    "email": "testuser@example.com",
+    "password": "test123"
+  },
+  "newProduct": {
+    "title": "Wireless Mouse",
+    "price": 29.99,
+    "description": "A high-quality wireless mouse.",
+    "category": "electronics",
+    "image": "https://example.com/mouse.jpg"
+  }
+}
